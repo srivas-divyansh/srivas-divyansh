@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **srivas.divyansh22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l4hIrwAmLLupc-I6KjzJhjRqRiAoRIs5/view?usp=sharing](https://drive.google.com/file/d/1l4hIrwAmLLupc-I6KjzJhjRqRiAoRIs5/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1l4hIrwAmLLupc-I6KjzJhjRqRiAoRIs5/view?usp=sharing](https://patnanit-my.sharepoint.com/:b:/g/personal/divyanshs_ug22_cs_nitp_ac_in/EeauOK6b8aZIjhucSWXTzR8BlqTRuxyyL8dyU3idUhvTRg?e=Zpg9ne))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
