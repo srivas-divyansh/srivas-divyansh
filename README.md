@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivas-divyansh&label=Profile%20views&color=0e75b6&style=flat" alt="srivas-divyansh" /> </p>
 
-- 🔭 I’m currently working on [BlockDoc](https://github.com/srivas-divyansh/BlockDoc)
-
 - 🌱 I’m currently learning **ReactJS, Data Structure and Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/srivas-divyansh](https://github.com/srivas-divyansh)
