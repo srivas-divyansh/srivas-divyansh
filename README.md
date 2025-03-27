@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **srivas.divyansh22@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://patnanit-my.sharepoint.com/:b:/g/personal/divyanshs_ug22_cs_nitp_ac_in/EQC8MuUzzotJjv4pjJPZzdcBACFq90xj484a_v2jK1a-Cg?e=40sYru)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ecx8pJYqUsBRy2Vjv22UfHy0lNCOHs0-/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
